@@ -1,0 +1,1 @@
+# Zalando RESTful API and Event Scheme Guidelines

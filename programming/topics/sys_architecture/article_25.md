@@ -1,0 +1,1 @@
+# The 7 Quests of Resilient Software Design

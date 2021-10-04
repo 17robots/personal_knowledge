@@ -1,0 +1,1 @@
+# Reasons Why SELECT * Is Bad For SQL Performance

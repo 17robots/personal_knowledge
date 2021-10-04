@@ -1,0 +1,1 @@
+# NOSQL Design for DynamoDB

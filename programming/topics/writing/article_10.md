@@ -1,0 +1,1 @@
+# Rob Pike's 5 Rules for Programming

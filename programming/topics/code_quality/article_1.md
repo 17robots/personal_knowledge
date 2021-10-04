@@ -1,0 +1,1 @@
+# Write Code that is Easy to Delete Not Easy To Extend

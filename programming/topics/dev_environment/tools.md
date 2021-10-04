@@ -1,0 +1,8 @@
+- glances: An eye on your system
+- httpie: a cli, curl like tool for humans
+- jq: command line json processor
+- tmux: terminal multiplexer
+- htop: an interactive process viewer for linux
+  - explained
+- socat
+- visual guide to ssh tunnels

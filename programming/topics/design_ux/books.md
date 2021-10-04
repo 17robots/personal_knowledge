@@ -1,0 +1,5 @@
+- The Non-Designer's Design Book
+- The Visual Display of Quantatative Information
+- Universal Principles of Design
+- Book Recommendations from HackerNews
+  - 

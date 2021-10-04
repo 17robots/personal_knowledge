@@ -1,0 +1,5 @@
+- https://twitter.com/devops_borat
+- https://speakerdeck.com/
+- Calvin & Hobbes
+- Dilbert
+- https://twitter.com/_workchronicles

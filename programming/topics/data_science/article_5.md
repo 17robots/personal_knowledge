@@ -1,0 +1,1 @@
+# How to Move Beyond a Monolithic Data Lake to a Distributed Data Mesh

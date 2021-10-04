@@ -1,0 +1,1 @@
+# Architecture Decision Records: A Way To Document Architecture Decision

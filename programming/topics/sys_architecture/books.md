@@ -1,0 +1,3 @@
+- Building Microservices
+- Designing Data-Intensive Applications
+- Scalability Rules: 50 Principles for Scaling Web Apps

@@ -1,0 +1,6 @@
+- Design Patterns: Elements of Reusable Object Oriented Software
+- Patterns of Enterprise Application Architecture
+- Domain-Driven Design: Tackling Complexity in the Heart of Software
+- Clean Architecture
+- Game Programming Patterns
+- Software Architecture Guide

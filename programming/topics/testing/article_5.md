@@ -1,0 +1,1 @@
+# Arrange-Act-Assert: A Pattern For Writing Good Tests

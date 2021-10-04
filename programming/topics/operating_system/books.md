@@ -1,0 +1,4 @@
+- The Linux Programming Interface: A Linux and UNIX System Programming Handbook
+- Modern Operating Systems
+- Operating Systems: Three Easy Pieces
+- Linux Kernel Development

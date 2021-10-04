@@ -1,0 +1,1 @@
+# Tips on Naming Boolean Variables
