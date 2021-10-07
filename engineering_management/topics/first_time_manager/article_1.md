@@ -1,0 +1,1 @@
+# How to Ensure A New Manager Succeeds

@@ -1,0 +1,1 @@
+# Manager OKRs, Maker OKRs: How Early Stage Startups Should Think About Goal-Setting

@@ -1,0 +1,1 @@
+# Six Recipes for Software Managers

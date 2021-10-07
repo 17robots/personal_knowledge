@@ -1,0 +1,1 @@
+# Building a Data Team at a Mid Stage Startup: A Short Story

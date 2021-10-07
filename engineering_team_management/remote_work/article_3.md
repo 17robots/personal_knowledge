@@ -1,0 +1,1 @@
+# Managing Remote Teams - A Crash Course

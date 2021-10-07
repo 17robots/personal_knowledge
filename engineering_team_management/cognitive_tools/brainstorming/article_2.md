@@ -1,0 +1,1 @@
+# Strong Opinions, Weakly Held -- A Framework for Thinking

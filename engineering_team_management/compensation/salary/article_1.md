@@ -1,0 +1,1 @@
+# Salaries Never Stay Secrets Forever. Hiding Them Only Delays the Inevitable

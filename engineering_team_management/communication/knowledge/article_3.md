@@ -1,0 +1,1 @@
+# You're Not Managing a Team of Software Engineers, You're Managing a Team of Writers 

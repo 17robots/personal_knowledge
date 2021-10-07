@@ -1,0 +1,1 @@
+# Advice to New Managers - Don't Joke About Firing People

@@ -1,0 +1,1 @@
+# Going from Developer to Manager: What Should I Know or Learn

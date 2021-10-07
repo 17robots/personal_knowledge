@@ -1,0 +1,1 @@
+# Failed #SquadGoals - Spotify Doesn't Use "The Spotify Model" and Neither Should You

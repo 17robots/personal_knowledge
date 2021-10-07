@@ -1,0 +1,1 @@
+# The Baldwin Formula for Scientific Writing: Writing Papers and Reviews

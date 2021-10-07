@@ -1,0 +1,1 @@
+# The Rands Test (The Joel Test For Management)

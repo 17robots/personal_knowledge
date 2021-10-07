@@ -1,0 +1,1 @@
+# Algorithm for Writing a Scientific Manuscript

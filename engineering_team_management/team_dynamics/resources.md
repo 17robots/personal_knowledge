@@ -1,0 +1,2 @@
+# OpenTeams
+https://openteam.info/

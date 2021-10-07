@@ -1,0 +1,1 @@
+# Mistakes Ive Made as an Engineering Manager

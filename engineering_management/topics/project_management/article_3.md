@@ -1,0 +1,1 @@
+# How We Structure Our Work and Teams at Basecamp

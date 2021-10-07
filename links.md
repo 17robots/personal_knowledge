@@ -44,3 +44,7 @@ https://github.com/lk-geimfari/awesomo
 https://github.com/heynickc/awesome-ddd
 https://github.com/dastergon/awesome-sre
 https://github.com/Kristories/awesome-guidelines
+https://github.com/92bondstreet/cto
+https://github.com/mateusz-brainhub/awesome-cto-resources
+https://github.com/kuchin/awesome-cto
+https://github.com/ryanburgess/engineer-manager

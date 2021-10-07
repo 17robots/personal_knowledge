@@ -1,0 +1,1 @@
+# Don't Pave the Path Used by Unhappy Cows

@@ -1,0 +1,1 @@
+# Book Summary of "Who: The Method for Hiring"

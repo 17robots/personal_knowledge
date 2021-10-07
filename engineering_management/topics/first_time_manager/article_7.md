@@ -1,0 +1,1 @@
+# The New Manager Death Spiral

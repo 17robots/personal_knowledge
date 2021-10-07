@@ -1,0 +1,1 @@
+# Detecting Agile Bullshit

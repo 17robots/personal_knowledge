@@ -1,0 +1,1 @@
+# Write Five, then Synthesize: Good Engineering Strategy is Boring

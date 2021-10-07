@@ -1,0 +1,1 @@
+# Spotify's Failed SquadGoals

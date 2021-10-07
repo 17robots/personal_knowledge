@@ -1,0 +1,1 @@
+# Stripe Atlas: Guide to Scaling Engineering Organizations

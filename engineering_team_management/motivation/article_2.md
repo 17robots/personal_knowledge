@@ -1,0 +1,1 @@
+# What Silicon Valley "Gets" About Software Engineers That Traditional Companies Do Not

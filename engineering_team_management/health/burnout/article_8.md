@@ -1,0 +1,1 @@
+# Average Tenure of a CISO is Just 26 Months Due to High Stress and Burnout

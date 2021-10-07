@@ -1,0 +1,1 @@
+# 21 Management Things I Learned at Imgur

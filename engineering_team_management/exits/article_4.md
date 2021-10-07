@@ -1,0 +1,1 @@
+# Management Challenges for the 21st Century - Managing Oneself

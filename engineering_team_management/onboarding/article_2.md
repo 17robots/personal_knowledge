@@ -1,0 +1,1 @@
+# As a Manager of a New Employee I Make an Absolute Point of Being a "Helicopter Mom" from the Moment They Hit the Area Until About Week 2 or 3

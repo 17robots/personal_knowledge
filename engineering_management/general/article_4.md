@@ -1,0 +1,1 @@
+# Keith Rabois on the Role of COO: How to Hire and Why Transparency Matters

@@ -1,0 +1,1 @@
+# How to Exit Vim, the Product Manager Way

@@ -1,0 +1,1 @@
+# Independence, Autonomy, Too Many Small Teams

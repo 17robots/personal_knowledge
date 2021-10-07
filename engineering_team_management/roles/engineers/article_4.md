@@ -1,0 +1,1 @@
+# Things I Learned From a Senior Software Engineer

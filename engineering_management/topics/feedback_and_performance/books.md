@@ -1,0 +1,2 @@
+- Radical Candor - The Surprising Secret to Being a Good Boss
+- Amazon.com: Crucial Conversations Tools for Talking When Stakes are High

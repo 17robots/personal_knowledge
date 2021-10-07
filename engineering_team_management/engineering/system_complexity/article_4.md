@@ -1,0 +1,1 @@
+# I Try to Optimize My Code Around Reducing State, Coupling, Complexity and Code in that Order

@@ -1,0 +1,1 @@
+# 10 Admirable Attributes of a Great Technical Lead

@@ -1,0 +1,1 @@
+# How to Deal With Difficult People on Software Projects

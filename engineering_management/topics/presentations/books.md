@@ -1,0 +1,4 @@
+- Presentation Zen
+- The Visual Display of Quantatative Information
+- The Non Designer's Design Book
+- Universal Principles of Design

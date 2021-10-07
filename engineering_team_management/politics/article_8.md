@@ -1,0 +1,1 @@
+# Company I've Worked For Had Manager Who Tried to Ship Features Over the Weekend With a Ragtag Team of Developers Who Don't Understand Why That's a Bad Idea

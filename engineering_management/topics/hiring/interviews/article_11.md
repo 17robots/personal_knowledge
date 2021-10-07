@@ -1,0 +1,1 @@
+# 6 Red Flags I Saw While Doing 60+ Technical Interviews in 30 Days

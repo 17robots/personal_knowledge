@@ -1,0 +1,1 @@
+# Lessons from 7 Highly Successful Software Engineering Cultures

@@ -1,0 +1,1 @@
+# Learnings From Six Months as a First-Time Manager

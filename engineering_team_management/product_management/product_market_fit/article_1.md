@@ -1,0 +1,1 @@
+# I Wasted $40k on a Fantastic Startup Idea

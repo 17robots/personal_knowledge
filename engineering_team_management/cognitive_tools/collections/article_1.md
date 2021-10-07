@@ -1,0 +1,1 @@
+# Gigerenzer's Simple Rules

@@ -1,0 +1,1 @@
+# Executives Ratify Decisions Made on the Spot
